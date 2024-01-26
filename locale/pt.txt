@@ -1,0 +1,122 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_14300369_0DB6_E7FF_41A2_D022A614C053.source = https://g.page/r/CaCIgmmIy1ITEB0/review
+LinkBehaviour_1E9309D7_0D92_2324_4199_F4B361C26D73.source = https://g.page/r/CaCIgmmIy1ITEB0/review
+LinkBehaviour_18691D5F_0D93_E325_4192_3BB24711B1F8.source = https://g.page/r/CaCIgmmIy1ITEB0/review
+LinkBehaviour_02CB8E05_0D92_2124_417E_09612E223BF0.source = https://linktr.ee/kuyadesignceara
+LinkBehaviour_14FF8F0D_0DB2_3F24_4181_59CA34FCC9B7.source = https://linktr.ee/kuyadesignceara
+LinkBehaviour_187C8D07_0D9F_E324_419A_5713C0083A12.source = https://linktr.ee/kuyadesignceara
+LinkBehaviour_18638D55_0D93_E325_4170_25E26F564ADE.source = https://wa.me/5585991367174?text=Oi+Edmilson+vi+o+tour+360+do+Centro+de+design+do+Ceara,+Gostaria+de+informaçoes+de+valores
+LinkBehaviour_1F9B16AD_0DB2_2164_41A3_5EE37511FCA7.source = https://wa.me/5585991367174?text=Oi+Edmilson+vi+o+tour+360+do+Centro+de+design+do+Ceara,+Gostaria+de+informaçoes+de+valores
+PopupWebFrameBehaviour_1DBDC455_0D8E_2124_417D_AA35E75993C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.406101751003!2d-38.53202672421892!3d-3.7212828431376765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c749382a5694af%3A0x1352cb88698288a0!2sKuya%20-%20Centro%20de%20Design%20do%20Cear%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1705330491921!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_18682D5B_0D93_E32D_41A9_1FA598FEA4C5.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.406101751003!2d-38.53202672421892!3d-3.7212828431376765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c749382a5694af%3A0x1352cb88698288a0!2sKuya%20-%20Centro%20de%20Design%20do%20Cear%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1705330491921!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_151D4C6A_0DB2_21EC_41A6_F1B89054C0CB.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.406101751003!2d-38.53202672421892!3d-3.7212828431376765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c749382a5694af%3A0x1352cb88698288a0!2sKuya%20-%20Centro%20de%20Design%20do%20Cear%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1705330491921!5m2!1spt-BR!2sbr
+LinkBehaviour_18F06934_0D9E_6364_41A9_1C66E5EFD54B.source = https://www.instagram.com/kuyadesignceara/
+LinkBehaviour_14D784BA_0DB2_616F_4180_5DA3E1D1DB45.source = https://www.instagram.com/kuyadesignceara/
+LinkBehaviour_1D8D130D_0D8E_2724_4195_278DE11E4E94.source = https://www.instagram.com/kuyadesignceara/
+LinkBehaviour_14548802_0DB6_211C_41A7_23D749FDB66A.source = https://www.youtube.com/channel/UCS-dVuB2KBvCn2bcczPJbGQ
+LinkBehaviour_18694D5E_0D93_E327_41A1_C88B032446B3.source = https://www.youtube.com/channel/UCS-dVuB2KBvCn2bcczPJbGQ
+LinkBehaviour_1D689535_0DB2_2364_4193_EBAB3E5344CB.source = https://www.youtube.com/channel/UCS-dVuB2KBvCn2bcczPJbGQ
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_274B6A7C_0E92_E1EB_4190_64A96D77ADD6.text = Arquidiocese de Fortaleza
+HotspotPanoramaOverlayTextImage_25A5D7B5_0E8E_6F64_41A7_F9A17629FAF6.text = Avenida do Imperador
+HotspotPanoramaOverlayTextImage_294D22AF_0FC6_9429_41A7_EB5E15235B99.text = Inicio 
+HotspotPanoramaOverlayTextImage_24486927_0EF5_E364_4192_2E360349D08F.text = Marina park hotel
+
+## Media
+
+### Audio
+audiores_01468BBB_1235_7DF4_4185_F828264E0B5F.mp3Url = media/audio_02612E8F_123D_37AC_419C_DFF3867B5FC7_pt.mp3
+audiores_16430B69_0F45_9428_415E_9F04281BD6EC.mp3Url = media/audio_167DDD25_0F46_8DD9_41A5_91CC91833038_pt.mp3
+audiores_16430B69_0F45_9428_415E_9F04281BD6EC.mp3Url = media/audio_167DDD25_0F46_8DD9_41A5_91CC91833038_pt.mp3
+audiores_16430B69_0F45_9428_415E_9F04281BD6EC.mp3Url = media/audio_167DDD25_0F46_8DD9_41A5_91CC91833038_pt.mp3
+audiores_16430B69_0F45_9428_415E_9F04281BD6EC.mp3Url = media/audio_167DDD25_0F46_8DD9_41A5_91CC91833038_pt.mp3
+audiores_38721B78_0EB3_E7EC_419B_A04725AC949A.mp3Url = media/audio_2386224F_0FC2_9469_419C_09EE04440613_pt.mp3
+audiores_38721B78_0EB3_E7EC_419B_A04725AC949A.mp3Url = media/audio_2386224F_0FC2_9469_419C_09EE04440613_pt.mp3
+audiores_2DD80C67_0EB5_E1E4_41A8_4F7E503EA9E8.mp3Url = media/audio_2C45DB75_0EB6_27E4_419A_AA2BB15569A2_pt.mp3
+audiores_2CBF3170_0EB2_E3FC_41A2_A8D964B9B95E.mp3Url = media/audio_2F207F2E_0EBE_3F64_41A0_37BD0F0919DE_pt.mp3
+audiores_2F7F73D2_0EB2_E73F_4197_C880C302B6D8.mp3Url = media/audio_2F8CF9B8_0EBE_E36B_419F_E9BCF282AFF9_pt.mp3
+
+### Image
+imlevel_37F3B83F_21A9_D013_41B3_11E50D0DF02A.url = media/panorama_060B3911_0D8E_233D_417C_9EA016B87985_HS_avsf9l7m_pt.png
+imlevel_37FB0929_21A9_D03F_41B3_7F6455CA0367.url = media/panorama_060B3911_0D8E_233D_417C_9EA016B87985_HS_gufk8uvq_pt.png
+imlevel_373E25AD_21A9_D037_41BE_CBD3D47175BE.url = media/panorama_060B3911_0D8E_233D_417C_9EA016B87985_HS_yxpcbsrd_pt.png
+imlevel_37FD4A59_21A9_D01F_41B5_5B980B56280A.url = media/panorama_29BA2035_0FBF_9439_4196_16E04EDE19F5_HS_7u784q3x_pt.png
+
+### Title
+panorama_060B3911_0D8E_233D_417C_9EA016B87985.label =  0 Vista aerea kuya 
+panorama_06BA51AC_0D8E_636B_41A1_7A42A790EB3F.label = 1 Patio 
+panorama_06BADFCC_0D8D_DF2B_419A_C1D515BF8AD2.label = 10 sala de games
+panorama_06A534FA_0D92_22EC_4192_BED3DAF47FF5.label = 11 corredor 
+panorama_06A57AE4_0D92_66E4_418D_2D391FEB20F4.label = 12 sala superior
+panorama_06A57112_0D92_233C_41A1_3DC91197955A.label = 13 corredor 2
+panorama_06A53819_0D92_212C_4191_E99EA7E8E266.label = 14 salão de exposição entrada
+panorama_29BA2035_0FBF_9439_4196_16E04EDE19F5.label = 15 Salão de exposição video
+panorama_06BD47C3_0D8E_6F1C_4161_26C678A599A4.label = 2 Patio 
+panorama_06BD8F65_0D8E_3FE4_41A0_F5D32297C3D1.label = 3 recepção de entrada
+panorama_06BBE5C8_0D8E_E32C_4188_F7AD0C529B9D.label = 4 home cinema 
+panorama_06BB9BFF_0D8E_E6E5_419D_D13CB5615FDA.label = 4.1 Salão projetor
+panorama_06BB23C0_0D8E_271B_419C_7F4CC3BCFA9C.label = 5 Entrada sala de jogos 
+panorama_06BB58E3_0D8E_611D_419F_3809F37F13E0.label = 6 sala de jogos 2
+panorama_06BAE4F7_0D8E_22E4_4195_E524E1481B9D.label = 7 sala de games
+panorama_06BB6EEE_0D8E_5EE7_41A5_5841E9E40AE1.label = 8 sala de jogos 3 
+panorama_06BB1A2C_0D8D_E16B_418D_93B5911A9AC0.label = 9 sala de games
+photo_24452A84_0EF2_2124_419B_041062DAB4F7.label = catedral
+video_2FC36FD3_0EB6_5F3D_417B_5382C6A098D0.label = video sala de exposição kuya
+
+### Video
+videolevel_3D68D814_21BA_D015_418D_1C317CAFAF28.posterURL = media/video_2FC36FD3_0EB6_5F3D_417B_5382C6A098D0_poster_pt.jpg
+videolevel_3D68D814_21BA_D015_418D_1C317CAFAF28.url = media/video_2FC36FD3_0EB6_5F3D_417B_5382C6A098D0_pt.mp4
+
+## Popup
+
+### Body
+htmlText_24A76825_0EF2_2165_419D_189A98D9D87F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A Arquidiocese de Fortaleza é uma circunscrição eclesiástica da Igreja Católica no Brasil, sediada na cidade de Fortaleza, capital do estado do Ceará. Foi criada em 10 de novembro de 1915, pela Bula "Catholicae Religionis Bonum" do Papa Bento XV, sendo desmembrada da Diocese de Olinda e Recife.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A história da Igreja Católica no Ceará remonta ao século XVI, com a chegada dos primeiros missionários jesuítas à região. Em 1585, foi fundada a primeira paróquia do Ceará, a Paróquia de Nossa Senhora da Assunção, na cidade de Fortaleza.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em 1675, a região do Ceará foi desmembrada da Diocese de Pernambuco e passou a ser administrada pela Diocese de São Luís do Maranhão. Em 1777, foi criada a Diocese de Olinda e Recife, que passou a abranger também o Ceará.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em 1853, foi criada a Diocese do Ceará, sendo desmembrada da Diocese de Olinda e Recife. O primeiro bispo da diocese foi Dom Luís Antônio dos Santos, que governou a diocese até 1881.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em 1915, a Diocese do Ceará foi elevada a Arquidiocese de Fortaleza, com a criação das Dioceses de Crato e Sobral. O primeiro arcebispo de Fortaleza foi Dom Manoel da Silva Gomes.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A Arquidiocese de Fortaleza é atualmente composta por 13 dioceses sufragâneas: Crato, Sobral, Limoeiro do Norte, Quixadá, Iguatu, Tianguá, Crateús, Tauá, Itapipoca, Aracati, Icó e Iguape.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A arquidiocese tem uma população de cerca de 4,5 milhões de habitantes, sendo a maior arquidiocese do Nordeste do Brasil.</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Image
+Image_00694A92_0D92_613F_418C_7F00B4C23305_mobile.url = skin/Image_00694A92_0D92_613F_418C_7F00B4C23305_mobile_pt.png
+Image_00694A92_0D92_613F_418C_7F00B4C23305.url = skin/Image_00694A92_0D92_613F_418C_7F00B4C23305_pt.png
+Image_00A81C67_0D92_21E5_41A1_5E9A06D038CF_mobile.url = skin/Image_00A81C67_0D92_21E5_41A1_5E9A06D038CF_mobile_pt.png
+Image_00A81C67_0D92_21E5_41A1_5E9A06D038CF.url = skin/Image_00A81C67_0D92_21E5_41A1_5E9A06D038CF_pt.png
+Image_00A89327_0D92_E764_41A8_69C7DE3AB625_mobile.url = skin/Image_00A89327_0D92_E764_41A8_69C7DE3AB625_mobile_pt.png
+Image_00A89327_0D92_E764_41A8_69C7DE3AB625.url = skin/Image_00A89327_0D92_E764_41A8_69C7DE3AB625_pt.png
+Image_00B90527_0D92_2364_41A2_3B10665E0674.url = skin/Image_00B90527_0D92_2364_41A2_3B10665E0674_pt.png
+Image_00BEC6B8_0D92_616B_41AB_0068E17DD26C.url = skin/Image_00BEC6B8_0D92_616B_41AB_0068E17DD26C_pt.png
+Image_00BFE986_0D92_6327_41A6_5FBFDFF486B4.url = skin/Image_00BFE986_0D92_6327_41A6_5FBFDFF486B4_pt.png
+Image_00D45B89_0D92_272D_4186_1CF488612E9A_mobile.url = skin/Image_00D45B89_0D92_272D_4186_1CF488612E9A_mobile_pt.png
+Image_00D45B89_0D92_272D_4186_1CF488612E9A.url = skin/Image_00D45B89_0D92_272D_4186_1CF488612E9A_pt.png
+Image_15CAABA1_0DF6_671C_41AA_5F1F55A4209F.url = skin/Image_15CAABA1_0DF6_671C_41AA_5F1F55A4209F_pt.png
+Image_187EBD06_0D9F_E324_4183_9016D00E7304_mobile.url = skin/Image_187EBD06_0D9F_E324_4183_9016D00E7304_mobile_pt.png
+Image_189DDFAE_0D9E_7F64_41A0_C6FB8C747703_mobile.url = skin/Image_189DDFAE_0D9E_7F64_41A0_C6FB8C747703_mobile_pt.png
+Image_18F13932_0D9E_637C_4171_087A135FE9B6_mobile.url = skin/Image_18F13932_0D9E_637C_4171_087A135FE9B6_mobile_pt.png
+Image_1A1E421A_0D92_212C_418C_D7CF5B74389D.url = skin/Image_1A1E421A_0D92_212C_418C_D7CF5B74389D_pt.png
+Image_1B6BE1FB_0DF6_22EC_419C_DB333F83C40A.url = skin/Image_1B6BE1FB_0DF6_22EC_419C_DB333F83C40A_pt.png
+Image_1BB9D40A_0DF2_E12F_415F_19B2369B2E35.url = skin/Image_1BB9D40A_0DF2_E12F_415F_19B2369B2E35_pt.png
+
+### Label
+Label_187C3D08_0D9F_E32C_419A_67A3B31A7979.text = Acesse nosso Site
+Label_1802E02A_0D9E_216C_4181_7E14AA9261D7.text = Avalie-nos
+Label_1885EFB2_0D9E_7F7C_41A4_0C17E232F4CD.text = Fotos 360º
+Label_18FFD934_0D9E_6364_41A8_354F62372214.text = Instagram
+Label_18DA7BEA_0D9E_26EF_4196_33D1CB5AC25F.text = Localização
+Label_18CC7987_0D9E_2323_4157_E84F00AC670C.text = Youtube
+
+### Tooltip
+IconButton_033CCCCB_0D9E_212C_41A4_7C9CC9248A9C.toolTip = Fullscreen
+IconButton_033CCCCB_0D9E_212C_41A4_7C9CC9248A9C_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Valorize a cultura do design feito no Ceará 
+
+### Title
+tour.name = Kuya - Centro de Design do Ceará
